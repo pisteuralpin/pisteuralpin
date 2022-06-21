@@ -31,5 +31,5 @@
 
 
 
-![Pisteur_alpin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisteuralpin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisteuralpin&theme=tokyonight)
+![Pisteur_alpin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisteuralpin&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisteuralpin&theme=dark&layout=compact)
