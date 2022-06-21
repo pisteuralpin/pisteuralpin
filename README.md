@@ -21,11 +21,10 @@
 ## 🧰 Tools
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-800px-Visual_Studio_Code_1.35_icon.svg.png" height="40">
-  <img src="[
-](https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg/revision/latest?cb=20180326041942)https://static.wikia.nocookie.net/logopedia/images/c/c9/Windows_11_Start_Button.svg/revision/latest?cb=20211008124827" height="40">
-  <img src="https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg/revision/latest?cb=20180326041942" height="40">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/c/c9/Windows_11_Start_Button.svg" height="40">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/8/8f/25231.svg" height="40">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40">
-  <img src="https://static.wikia.nocookie.net/logopedia/images/b/b7/Git_%28no_text%29.svg/revision/latest?cb=20211229120036" height="40">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/b/b7/Git_%28no_text%29.svg" height="40">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="40">
 </p>
 
