@@ -2,7 +2,6 @@
 
 - ⚙️ Futur student in engineering
 - 👦 17yo, French
-- ⚛️ I'm currently learning ReactJS
 
 ## 💡 Known languages
 <p>
