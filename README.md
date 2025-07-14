@@ -1,7 +1,7 @@
 ### Hi, I'm Pisteur_alpin
 
 - ⚙️ Student in engineering at Centrale Nantes
-- 👦 19yo, French
+- 👦 20yo, French
 
 ## 💡 Known languages
 <p>
